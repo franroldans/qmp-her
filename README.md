@@ -2,6 +2,8 @@
 
 It is based on the implementation of the G-HGG paper: https://github.com/hk-zh/C-HGG
 
+A more stable version of the code will be updated soon. For the meantime, if you want to use it, read the following instructions:
+
 ## Requirements
 1. Ubuntu 16.04 or macOS Catalina 10.15.7 (newer versions also work well) 
 2. Python 3.5.2 (newer versions such as 3.6.8 should work as well, 3.8 or higher is not suggested)
